@@ -1,8 +1,8 @@
 <img src="attachments/foam-icon.png" width=100 align="left">
 
-# Foam
+# Data science knowledge framework
 
-**👋 Welcome to your new Foam Knowledge Base!**
+**👋 Welcome to your new data science Knowledge Base!**
 
 ## Getting started
 
@@ -18,11 +18,11 @@ This documentation assumes that you have a GitHub account and have [Visual Studi
 
 After setting up the repository, head to [[getting-started]] to get familiar with your new knowledge base!
 
-To learn more about how to use **Foam**, read the [Recipes](https://foambubble.github.io/foam/recipes/recipes) bubbles of the Foam documentation workspace.
+To learn more about how to use **Data science knowledge framework**, read the [Recipes](https://foambubble.github.io/foam/recipes/recipes) bubbles of the Foam documentation workspace.
 
 And remember that you can always join our [Foam community on Discord](https://foambubble.github.io/join-discord/g)!
 
-## Using Foam
+## Using Data science knowledge framework
 
 We've created a few Bubbles (Markdown documents) to get you started.
 
